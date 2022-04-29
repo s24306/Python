@@ -23,7 +23,7 @@ Script is created with:
 ## Setup
 To run this script place it in the same folder as "keywords.txt"
 ```console
-python LinkGrabber.py
+python linkGrabber.py
 ```
 
 ## Functions
